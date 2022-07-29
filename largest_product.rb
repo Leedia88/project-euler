@@ -10,4 +10,3 @@ def product(num)
 end
 
 p product(13)
-
